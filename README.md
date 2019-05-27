@@ -1,4 +1,4 @@
-# Elemental Battles Tutorial Lesson 8
+# Elemental Battles
 
 - *Account*: `player1`
 - *Private Key*: `5KFyaxQW8L6uXFB6wSgC44EsAbzC7ideyhhQ68tiYfdKQp69xKo`
@@ -46,22 +46,3 @@ docker stop eosio_cardgame_container
 
 Please refer to [eosio-project-boilerplate-simple - Detailed guide](https://github.com/EOSIO/eosio-project-boilerplate-simple/blob/master/README.md#detailed-guide) for more information. This repository is using the similar structure as that.
 
-## Lesson List
-
-  [Lesson 0: Before You Start](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-0)
-
-  [Lesson 1: Smart Contract and Frontend Setup](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-1)
-
-  [Lesson 2: Storing State and Login](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-2)
-
-  [Lesson 3: Reading State from the Blockchain](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-3)
-
-  [Lesson 4: Elemental Battles Core](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-4)
-
-  [Lesson 5: Elemental Battles AI](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-5)
-
-  [Lesson 6: Playing a Round and Elemental Compatibility](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-6)
-
-  [Lesson 7: Building the Game Flow](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-7)
-
-  [Lesson 8: Wrapping Up The Game](https://github.com/EOSIO/eosio-card-game-repo/tree/lesson-8)
